@@ -21,13 +21,13 @@ The model was trained using binary cross-entropy loss and the Adam optimizer. Th
 ## Dataset Link
 https://drive.google.com/drive/folders/1EEdsVtKJIeLKEjnkGMqcO5P6BI6cxW5K?usp=sharing
 
-##Images
+## Images
 
 <img width="294" alt="Screenshot 2024-11-09 204304" src="https://github.com/user-attachments/assets/aa0b09c6-323a-490a-a55e-6f9c5b55193a">
 
 <img width="389" alt="Screenshot 2024-11-09 204103" src="https://github.com/user-attachments/assets/3cf0c2f4-ad4a-45eb-8cef-5c38fd4660c9">
 
-##Demo Video Link
+## Demo Video Link
 https://drive.google.com/file/d/1uKSlVOQ51gEpf-etFEmITaQKyxpqzlgb/view?usp=drive_link
 
 
